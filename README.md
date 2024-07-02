@@ -1,7 +1,7 @@
 # Core Computational Geometry Topics
 ## Convex Hulls
-Graham's scan algorithm
-Jarvis's march (Gift wrapping) algorithm
+- Graham's scan algorithm
+- Jarvis's march (Gift wrapping) algorithm
 ## Line Segment Intersection
 Bentley-Ottmann algorithm
 Sweep line algorithm
